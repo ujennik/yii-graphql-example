@@ -1,3 +1,10 @@
+GraphQL Server Demo Project
+============================
+
+Project demonstrates how to implement GraphQL API server based on Yii2 PHP framework.
+
+https://habrahabr.ru/post/336758/
+
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
